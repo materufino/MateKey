@@ -33,7 +33,7 @@ Si pierdes la clave maestra, no podrás recuperar tus contraseñas.
 
 No hay forma de restablecer la clave, ya que el cifrado es seguro y no tiene puertas traseras.
 
-¡Guarda tu clave maestra en un lugar seguro! Si la olvidas, no podremos ayudarte a recuperar los datos.
+Guarda tu clave maestra en un lugar seguro! Si la olvidas, no podremos ayudarte a recuperar los datos.
 
 ========================================
 
@@ -43,7 +43,7 @@ Este software es de código abierto y se proporciona "tal cual".
 
 El uso indebido de este programa es responsabilidad exclusiva del usuario.
 
-No nos hacemos responsables por pérdida de datos, olvidos de la clave maestra o cualquier otro problema derivado del uso del programa.
+No me hago responsable por pérdida de datos, olvidos de la clave maestra o cualquier otro problema derivado del uso del programa.
 
 ⚠️ Usa el programa bajo tu propia responsabilidad.
 
